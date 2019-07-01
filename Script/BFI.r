@@ -84,7 +84,7 @@
 # Examples
 
 
-BFI <- function(Q, alpha=0.925, passes=3, ReturnQbase=FALSE, n.reflect=30) {
+BFI_LH <- function(Q, alpha=0.925, passes=3, ReturnQbase=FALSE, n.reflect=30) {
   
   ############ Define Functions #########################  
   

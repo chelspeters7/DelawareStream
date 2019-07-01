@@ -8,6 +8,7 @@ stream.cleandf <- function(df) {
   # Extract month and year and store in separate columns
   df$year <- format(df$Date, format = "%Y")
   df$month <- format(df$Date, format = "%m")
+  df$day <- format(df$Date, format = "%d")
   df
 }
 
@@ -32,6 +33,20 @@ stream.PlotText <- function(df, parameter, eq) {
   legend("topleft", legend = c(variableInfo$unit[which(variableInfo$variableCode == "00095")],
                                variableInfo$unit[which(variableInfo$variableCode == parameter)]),
          col=c("red","black"),lty=c(NA,1),pch=c(1,NA),title = eq)
+  axis(4,col="black",col.axis="black")
+  title(paste(siteInfo$station_nm, siteInfo$site_no))
+}
+
+#============================================
+#Clean up plot by making labels and legend
+stream.PlotText.noeq <- function(df, parameter) {
+  variableInfo <- attr(df, "variableInfo")
+  siteInfo <- attr(df, "siteInfo")
+  mtext(variableInfo$variableDescription[which(variableInfo$variableCode == parameter)],
+        side=4,line=3,col="black")
+  legend("topleft", legend = c(variableInfo$unit[which(variableInfo$variableCode == "00095")],
+                               variableInfo$unit[which(variableInfo$variableCode == parameter)]),
+         col=c("red","black"),lty=c(NA,1),pch=c(1,NA))
   axis(4,col="black",col.axis="black")
   title(paste(siteInfo$station_nm, siteInfo$site_no))
 }

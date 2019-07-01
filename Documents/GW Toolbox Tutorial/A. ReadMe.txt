@@ -1,0 +1,65 @@
+ReadMe.txt
+
+                           Groundwater Toolbox Tutorials
+                Last Update: May 26, 2017 (Version 1.3.1 release)
+
+     This directory contains tutorials for the USGS Groundwater Toolbox.
+A short description of each tutorial, and their release dates, are given
+below.
+
+1. and 2. 'RDB_file_structure' and 'Scripting_to_import_Excel_data'
+(released April 30, 2015, with version 1.1 of the GW Toolbox). These
+tutorials describe two different approaches for importing data from an 
+Excel file into the GW Toolbox. The first approach can be particularly
+useful because of the completeness of the attribute/parameter values
+that are imported with the data in the RDB format.
+
+'RDB_file_structure' describes steps that can be taken to construct a 
+USGS RDB (relational database) streamflow data file from any streamflow 
+data source. The RDB data file can then be imported into the GW Toolbox. 
+An example is provided that uses streamflow data stored in an Excel file. 
+This tutorial uses the template file 'NWIS_discharge_01117500.rdb.'
+
+'Scripting_to_import_Excel_data' describes steps that can be taken to use 
+the Scripting Functionality of the GW Toolbox to import data stored in an 
+Excel file. 
+
+3. 'New and Updated Functionality for Hydrograph Separation with the 
+Groundwater Toolbox' (released October 1, 2016, with version 1.2 of the
+GW Toolbox). This tutorial describes new and updated functionality for 
+hydrograph separation to analyze (1) multiple streamflow records 
+simultaneously ('Batch Map' and 'Batch File' options),(2) streamflow 
+records with intermittent periods of record, and (3) streamflow records 
+that are less than a full calendar year in length or that extend over 
+periods that are not full calendar years.
+
+4. 'Updated Functionality for Analysis of Time-Series Data' (released
+October 1, 2016, with version 1.2 of the GW Toolbox). This tutorial
+describes updated methods for analysis of time-series data, including
+(1) ability to work with base-flow and runoff time series generated as
+output from the hydrograph-separation methods, (2) enhancements to the
+existing Kendall Tau trends functionality, and (3) subsetting, splitting,
+filtering and other manipulations of a time series.
+
+5. 'Two digital filters for hydrograph separation with the Groundwater
+Toolbox' (released April 15, 2017, with version 1.3 of the GW Toolbox).
+This tutorial describes two digital-filtering techniques for hydro-
+graph separation (the SWAT Bflow and Eckhardt approaches), approaches
+for estimating parameters for the techniques, and implementation and 
+use of the techniques in the GW Toolbox.
+
+6. 'Update to the RECESS functionality to estimate a basin-wide base-
+flow recession constant and master recession curve' (released April 15, 
+2017, with version 1.3 of the GW Toolbox). This tutorial describes 
+modifications made to the RECESS functionality, particularly to the 
+generation and presentation of master recession curves.
+
+7. 'Miscellaneous Updates' (initially released May 26, 2017, with 
+version 1.3.1 of the GW Toolbox). This tutorial describes miscellaneous 
+updates and enhancements to the Toolbox beginning with version 1.3.1.
+Users should review this tutorial with each new release to learn
+about new enhancements and updates to Toolbox functionality.
+
+
+
+

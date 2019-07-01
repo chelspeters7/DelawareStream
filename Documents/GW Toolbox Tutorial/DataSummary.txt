@@ -1,0 +1,10 @@
+READING FILE NAMED TestMurder2.csv
+FIRST YEAR IN RECORD =  2018
+ LAST YEAR IN RECORD =  2019
+                 MONTH        
+ YEAR   J F M A M J J A S O N D
+ 2018   X . . . . . . . . . . .
+ 2019   . . . . . . X X X X X X
+
+ COMPLETE RECORD = .      INCOMPLETE = X
+

@@ -1,0 +1,1 @@
+(ATCScript "txtScriptDesc"  (LineEnd CR)  (NextLine 1)  (ColumnFormat ,-                6:Value                3:Year                4:Month                5:Day                2:Location)  (While (Not EOF)         (Dataset Location Location)         (Date Year               Month               Day               "0"               "0")         (Value Value)         (NextLine)  ))

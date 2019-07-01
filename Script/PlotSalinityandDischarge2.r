@@ -1,15 +1,18 @@
 library(dataRetrieval)
 library(ggplot2)
 library(forecast)
-library(dplyr)
 library(plyr)
+library(dplyr)
 require(stats)
-source("C:/Users/Chelsea/Documents/Projects/DelawareStream/Script/StreamFunctions.R")
-source("C:/Users/Chelsea/Documents/Projects/DelawareStream/Script/BFI.r")
+setwd("C:/Users/Admin/Desktop/Chelsea/Projects/DelawareStream/Script")
+setwd('..')
+source("Script/StreamFunctions.R")
+source("Script/BFI.r")
 
 siteNumbers <- c("01484085", 
                  "01484080","01463500",
                  "01479000","01480065")
+siteNumbers <- sites
 
 parameterCd <- "all"
 startDate <- "1980-01-01"
@@ -19,7 +22,7 @@ for (count in 1:length(siteNumbers)) {
   # Determine site number
   siteNumber = siteNumbers[count]
   
-  # Plot salinity and discharge given siteNumber, parameterCd, startDate, and endDate. 
+  # Find salinity and discharge given siteNumber, parameterCd, startDate, and endDate. 
   SC_D <- readNWISdv(siteNumber, parameterCd, startDate, endDate)
   SC_D <- stream.cleandf(SC_D)
   
@@ -30,7 +33,7 @@ for (count in 1:length(siteNumbers)) {
   parameterscodes <- variableInfo$variableCode
 
   # Plot
-  filename = paste("C:/Users/Chelsea/Documents/Projects/DelawareStream/Figures/",siteInfo$site_no,".png",sep="")
+  filename = paste("Figures/",siteInfo$site_no,".png",sep="")
   png(file = filename, width = 1000, height = 1000)
   par(mar=c(5,5,5,5)) #sets the size of the plot window
 

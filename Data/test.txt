@@ -1,0 +1,41 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-05-13 15:49:38 EDT       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 01484000 MURDERKILL RIVER NEAR FELTON, DE
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 01484000
+#            TS   parameter     Description
+#        166684       00065     Gage height, feet
+#        166686       00060     Discharge, cubic feet per second
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	tz_cd	166684_00065	166684_00065_cd	166686_00060	166686_00060_cd
+5s	15s	20d	6s	14n	10s	14n	10s
+USGS	01484000	2019-04-01 00:00	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 00:15	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 00:30	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 00:45	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 01:00	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 01:15	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 01:30	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 01:45	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 02:00	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 02:15	EDT	2.46	P	18.6	P
+USGS	01484000	2019-04-01 02:30	EDT	2.45	P	18.3	P
+USGS	01484000	2019-04-01 02:45	EDT	2.46	P	18.6	P

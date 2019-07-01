@@ -1,0 +1,33 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-05-20 15:17:19 EDT       (nadww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 01484085 MURDERKILL RIVER AT BOWERS, DE
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 01484085
+#            TS   parameter     Description
+#        212549       72255     Mean water velocity for discharge computation, feet per second
+#        246397       62619     Estuary or ocean water surface elevation above NGVD 1929, feet
+#         69424       00010     Temperature, water, degrees Celsius
+#         69425       00095     Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+#         69426       00400     pH, water, unfiltered, field, standard units
+#         69427       00300     Dissolved oxygen, water, unfiltered, milligrams per liter
+#         69429       00060     Discharge, cubic feet per second
+#         69431       00065     Gage height, feet, [NAVD88]
+#
+agency_cd	site_no	datetime	tz_cd
+5s	15s	20d	6s	
+

@@ -41,15 +41,23 @@ plot(SC_D$Date, SC_D$X_72137,col="black",type = "l",
 bf <- BaseflowSeparation(SC_D$X_72137, filter_parameter = 0.925, passes = 3)
 
 # Plot the data
+par(mar=c(5,5,5,5))
 plot(SC_D$Date, SC_D$X_72137,col="black",type = "l",
      ylab=variableInfo$variableDescription[which(variableInfo$variableCode == "72137")],
      xlab="Date")
 lines(SC_D$Date, bf$bt, col = "blue")
+eq <- stream.trendline.equation(SC_D$Date, SC_D$X_72137, SC_D, "red")
+eq2 <- stream.trendline.equation(SC_D$Date, bf$bt, SC_D, "gray")
+
+require(stats)
+reg<-lm(Date ~ X_72137, data = SC_D)
+coeff=coefficients(reg)
+abline(reg,col="red")
 #abc = as.numeric(as.character(bf$qft)) + as.numeric(as.character(bf$bt))
 #lines(SC_D$Date, abc, col = "green")
-par(new=TRUE)
-plot(SC_D$Date, SC_D$SpecCond,col="red",
-     type = "l",xaxt="n",yaxt="n",xlab="",ylab="",axes=FALSE)
+#par(new=TRUE)
+#plot(SC_D$Date, SC_D$SpecCond,col="red",
+#     type = "l",xaxt="n",yaxt="n",xlab="",ylab="",axes=FALSE)
 
 #==========================================================
 # Baseflow seperation using the Lyne and Hollick filter

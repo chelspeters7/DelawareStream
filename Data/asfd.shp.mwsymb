@@ -1,0 +1,10 @@
+<MapWinGIS OcxVersion="4.8" FileType="LayerFile" FileVersion="0" Description="">
+  <Layer LayerType="Shapefile" LayerName="asfd" LayerVisible="1" LayerKey="" Filename="">
+    <ShapefileClass>
+      <DefaultDrawingOptions FillColor="4425552" LineColor="9868950" PointSize="24.000000" />
+      <ShapefileCategoriesClass />
+      <LabelsClass Alignment="5" Generated="0" AvoidCollisions="0" Positioning="0" TextRenderingHint="5" />
+      <ChartsClass />
+    </ShapefileClass>
+  </Layer>
+</MapWinGIS>

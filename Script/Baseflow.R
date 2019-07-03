@@ -12,16 +12,17 @@ source("Script/StreamFunctions.R")
 source("Script/BFI.r")
 #==========================================================
 # Download discharge data
-siteNumber <- "01484085"
+siteNumber <- "01484080"
 parameterCd <- "all"
-startDate <- "2018-03-04"
-endDate <- "2018-12-31" #"2019-06-01"
+startDate <- "2017-03-04"
+endDate <- "2018-01-31" #"2019-06-01"
 
 # Find salinity and discharge given siteNumber, parameterCd, startDate, and endDate. 
 SC_D <- readNWISdv(siteNumber, parameterCd, startDate, endDate)
 SC_D <- stream.cleandf(SC_D)
 df <- data.frame("date" = SC_D$Date, "day" = SC_D$day, "month" = SC_D$month, "year" = SC_D$year,
                  "flow" = SC_D$X_72137, "hyear" = SC_D$year)
+SC_D_info <- readNWISsite(siteNumber)
 
 # Information about the data frame attributes:
 statInfo <- attr(SC_D, "statisticInfo")
@@ -33,6 +34,22 @@ parameterscodes <- variableInfo$variableCode
 plot(SC_D$Date, SC_D$X_72137,col="black",type = "l",
      ylab=variableInfo$variableDescription[which(variableInfo$variableCode == "72137")],
      xlab="Date")
+
+#==========================================================
+# Baseflow seperation
+
+bf <- BaseflowSeparation(SC_D$X_72137, filter_parameter = 0.925, passes = 3)
+
+# Plot the data
+plot(SC_D$Date, SC_D$X_72137,col="black",type = "l",
+     ylab=variableInfo$variableDescription[which(variableInfo$variableCode == "72137")],
+     xlab="Date")
+lines(SC_D$Date, bf$bt, col = "blue")
+#abc = as.numeric(as.character(bf$qft)) + as.numeric(as.character(bf$bt))
+#lines(SC_D$Date, abc, col = "green")
+par(new=TRUE)
+plot(SC_D$Date, SC_D$SpecCond,col="red",
+     type = "l",xaxt="n",yaxt="n",xlab="",ylab="",axes=FALSE)
 
 #==========================================================
 # Baseflow seperation using the Lyne and Hollick filter

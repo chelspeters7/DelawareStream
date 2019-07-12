@@ -39,7 +39,7 @@ Thumbs.db
 ######################
 *Models/
 *Figures/
-*FloPy/
+FloPy/
 
 *.lnk
 *__pycache__/

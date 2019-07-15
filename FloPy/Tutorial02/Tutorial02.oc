@@ -1412,3 +1412,1403 @@ period 3 step 100
   print head
   print budget
 
+period 4 step 1 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 2 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 3 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 4 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 5 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 6 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 7 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 8 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 9 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 10 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 11 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 12 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 13 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 14 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 15 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 16 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 17 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 18 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 19 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 20 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 21 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 22 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 23 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 24 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 25 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 26 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 27 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 28 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 29 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 30 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 31 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 32 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 33 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 34 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 35 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 36 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 37 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 38 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 39 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 40 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 41 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 42 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 43 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 44 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 45 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 46 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 47 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 48 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 49 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 50 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 51 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 52 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 53 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 54 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 55 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 56 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 57 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 58 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 59 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 60 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 61 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 62 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 63 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 64 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 65 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 66 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 67 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 68 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 69 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 70 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 71 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 72 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 73 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 74 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 75 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 76 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 77 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 78 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 79 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 80 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 81 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 82 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 83 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 84 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 85 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 86 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 87 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 88 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 89 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 90 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 91 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 92 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 93 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 94 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 95 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 96 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 97 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 98 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 99 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 4 step 100 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 1 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 2 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 3 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 4 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 5 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 6 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 7 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 8 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 9 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 10 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 11 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 12 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 13 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 14 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 15 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 16 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 17 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 18 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 19 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 20 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 21 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 22 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 23 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 24 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 25 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 26 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 27 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 28 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 29 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 30 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 31 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 32 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 33 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 34 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 35 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 36 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 37 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 38 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 39 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 40 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 41 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 42 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 43 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 44 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 45 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 46 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 47 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 48 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 49 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 50 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 51 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 52 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 53 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 54 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 55 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 56 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 57 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 58 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 59 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 60 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 61 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 62 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 63 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 64 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 65 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 66 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 67 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 68 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 69 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 70 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 71 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 72 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 73 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 74 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 75 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 76 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 77 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 78 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 79 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 80 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 81 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 82 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 83 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 84 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 85 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 86 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 87 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 88 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 89 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 90 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 91 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 92 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 93 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 94 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 95 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 96 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 97 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 98 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 99 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
+period 5 step 100 
+  save head
+  save drawdown
+  save budget
+  print head
+  print budget
+
